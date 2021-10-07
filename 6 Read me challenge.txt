@@ -1,0 +1,3 @@
+Challenge 6 ReadMe
+
+provide real-time suggestions for our client's ideal hotels
